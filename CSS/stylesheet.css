@@ -1,0 +1,46 @@
+header img{
+    left: auto;
+
+
+    
+}
+header h1 {
+    padding-left: 55px;
+   
+    margin-top: -50px;
+
+}
+header h4{
+    padding-left: 55px;
+    margin-top: -25px;
+
+}
+
+
+nav{     margin-bottom: 20px;}
+nav ul{    position: relative;
+    left: 300px;
+
+margin-top: -70px;
+}
+nav ul li{    display:inline-block;    padding: 20px;}
+nav ul li:last-child{    /* background-color: red; */     position: relative;     right: 20px;}
+#one {
+    left: auto;
+}
+
+#img1{
+    position: absolute;
+    right: 700px;
+    padding-bottom: 20px;
+}
+#p1{
+    position: absolute;
+    right: 650px;
+    padding-bottom: 20px;
+   
+}
+#two{
+    float: none;
+    
+}
