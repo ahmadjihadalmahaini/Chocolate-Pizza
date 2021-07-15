@@ -18,29 +18,41 @@ header h4{
 
 
 nav{     margin-bottom: 20px;}
-nav ul{    position: relative;
-    left: 300px;
-
+nav ul{
+margin-left: 20%;
+box-sizing: border-box;
 margin-top: -70px;
 }
 nav ul li{    display:inline-block;    padding: 20px;}
-nav ul li:last-child{    /* background-color: red; */     position: relative;     right: 20px;}
+nav ul li:last-child{position: relative;     right: 20px;}
 #one {
     left: auto;
 }
 
-#img1{
-    position: absolute;
-    right: 700px;
-    padding-bottom: 20px;
-}
-#p1{
-    position: absolute;
-    right: 650px;
-    padding-bottom: 20px;
-   
+
+
+#ac{
+    
+    margin-left: 50%;
 }
 #two{
-    float: none;
-    
+    width: 50%;
+padding-right: 50px;
+text-indent:1em;
+
+}
+#left{
+    float: left;
+}
+#right{
+    margin-left: 25%;
+}
+#share{
+    margin-left: 40%;
+margin-top: 5%;}
+
+#auther{margin-left: 2%;}
+#bio{
+    margin-left: 8%;
+    margin-bottom: -20px;
 }
